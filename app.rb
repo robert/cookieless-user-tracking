@@ -8,6 +8,9 @@ get '/' do
   alert("Your trackingId is " + trackingId);
   </script>
   Looks like you\'ve been tagged, even without cookies.
+  <br/>
+  <br/>
+  <a href="http://robertheaton.com">Read my blog post explaining how</a>
   '
 end
 
