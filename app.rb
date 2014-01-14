@@ -1,3 +1,5 @@
+require 'sinatra'
+require 'rack/cache'
 require 'securerandom'
 
 get '/' do
