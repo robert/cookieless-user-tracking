@@ -1,4 +1,4 @@
-cookieless-js-tracking
+cookieless-user-tracking
 ======================
 
 Tracking users without using cookies like a boss/douche.
